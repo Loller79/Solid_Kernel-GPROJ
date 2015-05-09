@@ -499,3 +499,4 @@ void ion_iommu_heap_destroy(struct ion_heap *heap)
 
 	kfree(iommu_heap);
 	iommu_heap = NULL;
+}
