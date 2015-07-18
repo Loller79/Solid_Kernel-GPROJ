@@ -50,6 +50,7 @@ modules.builtin
 /makeboot2.sh
 /modules.sh
 /patch
+/arch/arm/mach-msm/smd_rpc_sym.c
 
 #
 # Debian directory (make deb-pkg)
